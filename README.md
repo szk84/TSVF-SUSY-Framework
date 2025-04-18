@@ -1,7 +1,7 @@
 # **TSVF-SUSY Framework**
 **Time-Symmetric Supersymmetric Framework for Quantum Gravity**  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15033087.svg)](https://doi.org/10.5281/zenodo.15241018)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15241018.svg)](https://doi.org/10.5281/zenodo.15241018)
 [![GitHub Stars](https://img.shields.io/github/stars/szk84/TSVF-SUSY-Framework)](https://github.com/szk84/TSVF-SUSY-Framework/stargazers)  
 [![License](https://img.shields.io/github/license/szk84/TSVF-SUSY-Framework)](LICENSE)  
 
