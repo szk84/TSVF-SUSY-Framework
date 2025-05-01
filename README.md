@@ -1,5 +1,5 @@
 # **TSVF-SUSY Framework**
-**Time-Symmetric Supersymmetric Framework for Quantum Gravity**
+**TSVF-SUSY: A Time-Symmetric and CPT-Invariant Supersymmetric Framework for Quantum Gravity and Cosmological Phenomena**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15241018.svg)](https://doi.org/10.5281/zenodo.15241018)
 [![GitHub Stars](https://img.shields.io/github/stars/szk84/TSVF-SUSY-Framework?style=social)](https://github.com/szk84/TSVF-SUSY-Framework/stargazers)
@@ -10,11 +10,11 @@
 
 ---
 
-# TSVF-SUSY: A Time-Symmetric Supersymmetric Framework for Quantum Gravity
+# TSVF-SUSY: A Time-Symmetric and CPT-Invariant Supersymmetric Framework for Quantum Gravity and Cosmological Phenomena
 
 ## 🔍 Overview
 
-This repository contains the research paper, LaTeX source, and simulation data for **TSVF-SUSY**, a **Time-Symmetric Supersymmetric Framework for Quantum Gravity**. This model unifies the **Two-State Vector Formalism (TSVF)** with **\(\mathcal{N}=1\)** Supersymmetry (SUSY) to construct a mathematically rigorous, renormalizable, and testable alternative to conventional quantum gravity approaches.
+This repository contains the research paper, LaTeX source, and simulation data for **TSVF-SUSY**, a **Time-Symmetric and CPT-Invariant Supersymmetric Framework for Quantum Gravity and Cosmological Phenomena**. This model unifies the **Two-State Vector Formalism (TSVF)** with **\(\mathcal{N}=1\)** Supersymmetry (SUSY) to construct a mathematically rigorous, renormalizable, and testable alternative to conventional quantum gravity approaches.
 
 TSVF-SUSY is built from first principles using a **CPT-invariant path integral**, a **fully local ghost-free Lagrangian**, and **bidirectional boundary conditions**, providing a retrocausal mechanism for time evolution consistent with observed physics.
 
@@ -53,7 +53,7 @@ Simulation outputs align with published figures and are reproducible using the p
 
 ## 🔗 Open Access Publication
 
-- 📄 Full paper published via **Zenodo**: https://zenodo.org/record/15241018  
+- 📄 Full paper published via **Zenodo**: https://doi.org/10.5281/zenodo.15310504
 - 🧠 Citation-ready with DOI and metadata  
 - 📥 Supplementary material and simulation code included for full reproducibility  
 
