@@ -1,7 +1,7 @@
 # **TSVF-SUSY Framework**
 **TSVF-SUSY: A Time-Symmetric and CPT-Invariant Supersymmetric Framework for Quantum Gravity and Cosmological Phenomena**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15241018.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.15310504.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15310504.svg)
 [![GitHub Stars](https://img.shields.io/github/stars/szk84/TSVF-SUSY-Framework?style=social)](https://github.com/szk84/TSVF-SUSY-Framework/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/szk84/TSVF-SUSY-Framework?style=social)](https://github.com/szk84/TSVF-SUSY-Framework/network/members)
 [![License](https://img.shields.io/github/license/szk84/TSVF-SUSY-Framework)](LICENSE)
